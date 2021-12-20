@@ -11,38 +11,38 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "Podda Rap",
+    artist: "Dj Jnk",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "Sarawita Rap -Official",
+    artist: "Dj Jnk ft Moniyo",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "Wine Wela Rap - Official",
+    artist: "Keefa",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Kondosthara Rap - Official",
+    artist: "Maduwa",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "Mewwa Beheth - Official",
+    artist: "Maduwa",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Mara Seen - Official",
+    artist: "Maduwa ft Shan Putha",
     img: "music-6",
     src: "music-6"
   },
